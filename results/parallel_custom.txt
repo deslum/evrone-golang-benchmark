@@ -1,0 +1,36 @@
+goos: linux
+goarch: amd64
+pkg: gitlab.com/deslum/evrone-benchmark
+cpu: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+BenchmarkParallelWSCustom-8   	   19926	     62488 ns/op
+BenchmarkParallelWSCustom-8   	   19581	     52755 ns/op
+BenchmarkParallelWSCustom-8   	   20904	     58673 ns/op
+BenchmarkParallelWSCustom-8   	   20964	     59782 ns/op
+BenchmarkParallelWSCustom-8   	   24230	     53920 ns/op
+BenchmarkParallelWSCustom-8   	   20118	     59618 ns/op
+BenchmarkParallelWSCustom-8   	   22219	     54113 ns/op
+BenchmarkParallelWSCustom-8   	   20998	     53709 ns/op
+BenchmarkParallelWSCustom-8   	   23484	     52202 ns/op
+BenchmarkParallelWSCustom-8   	   45745	     27796 ns/op
+BenchmarkParallelWSCustom-8   	   44776	     26386 ns/op
+BenchmarkParallelWSCustom-8   	   45432	     33877 ns/op
+BenchmarkParallelWSCustom-8   	   33037	     36621 ns/op
+BenchmarkParallelWSCustom-8   	   31264	     38661 ns/op
+BenchmarkParallelWSCustom-8   	   29755	     40142 ns/op
+BenchmarkParallelWSCustom-8   	   30586	     37712 ns/op
+BenchmarkParallelWSCustom-8   	   28802	     39612 ns/op
+BenchmarkParallelWSCustom-8   	   33031	     39042 ns/op
+BenchmarkParallelWSCustom-8   	   29959	     39640 ns/op
+BenchmarkParallelWSCustom-8   	   31471	     39036 ns/op
+BenchmarkParallelWSCustom-8   	   32304	     39411 ns/op
+BenchmarkParallelWSCustom-8   	   29562	     37346 ns/op
+BenchmarkParallelWSCustom-8   	   30735	     40118 ns/op
+BenchmarkParallelWSCustom-8   	   29938	     38980 ns/op
+BenchmarkParallelWSCustom-8   	   30742	     39472 ns/op
+BenchmarkParallelWSCustom-8   	   33133	     39168 ns/op
+BenchmarkParallelWSCustom-8   	   30432	     39969 ns/op
+BenchmarkParallelWSCustom-8   	   32116	     39789 ns/op
+BenchmarkParallelWSCustom-8   	   29953	     40694 ns/op
+BenchmarkParallelWSCustom-8   	   30776	     37779 ns/op
+PASS
+ok  	gitlab.com/deslum/evrone-benchmark	49.856s

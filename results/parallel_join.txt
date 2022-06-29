@@ -1,0 +1,36 @@
+goos: linux
+goarch: amd64
+pkg: gitlab.com/deslum/evrone-benchmark
+cpu: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+BenchmarkParallelJoin-8   	   35727	     30160 ns/op
+BenchmarkParallelJoin-8   	   38018	     31553 ns/op
+BenchmarkParallelJoin-8   	   37021	     32975 ns/op
+BenchmarkParallelJoin-8   	   42765	     29202 ns/op
+BenchmarkParallelJoin-8   	   43906	     28965 ns/op
+BenchmarkParallelJoin-8   	   46827	     29273 ns/op
+BenchmarkParallelJoin-8   	   46075	     28404 ns/op
+BenchmarkParallelJoin-8   	   44052	     29349 ns/op
+BenchmarkParallelJoin-8   	   48115	     29328 ns/op
+BenchmarkParallelJoin-8   	   46726	     27528 ns/op
+BenchmarkParallelJoin-8   	   41222	     29699 ns/op
+BenchmarkParallelJoin-8   	   44217	     26715 ns/op
+BenchmarkParallelJoin-8   	   43243	     26402 ns/op
+BenchmarkParallelJoin-8   	   43042	     27942 ns/op
+BenchmarkParallelJoin-8   	   37416	     26782 ns/op
+BenchmarkParallelJoin-8   	   45822	     26639 ns/op
+BenchmarkParallelJoin-8   	   42525	     28522 ns/op
+BenchmarkParallelJoin-8   	   45619	     28193 ns/op
+BenchmarkParallelJoin-8   	   42318	     27523 ns/op
+BenchmarkParallelJoin-8   	   76654	     15990 ns/op
+BenchmarkParallelJoin-8   	   74388	     16497 ns/op
+BenchmarkParallelJoin-8   	   75286	     16050 ns/op
+BenchmarkParallelJoin-8   	   72794	     16001 ns/op
+BenchmarkParallelJoin-8   	   73789	     16108 ns/op
+BenchmarkParallelJoin-8   	   75092	     16094 ns/op
+BenchmarkParallelJoin-8   	   69607	     16125 ns/op
+BenchmarkParallelJoin-8   	   74649	     16007 ns/op
+BenchmarkParallelJoin-8   	   74385	     15950 ns/op
+BenchmarkParallelJoin-8   	   75562	     16051 ns/op
+BenchmarkParallelJoin-8   	   74470	     15760 ns/op
+PASS
+ok  	gitlab.com/deslum/evrone-benchmark	45.683s

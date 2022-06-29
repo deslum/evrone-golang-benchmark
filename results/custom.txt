@@ -1,0 +1,36 @@
+goos: linux
+goarch: amd64
+pkg: gitlab.com/deslum/evrone-benchmark
+cpu: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   22372	     55617 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   22634	     54839 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   20120	     55018 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   23155	     53922 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   20356	     63819 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   18805	     59272 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   20572	     69412 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17407	     69148 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17451	     68988 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17246	     69556 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17428	     68977 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17259	     69619 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17217	     62747 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   19288	     66396 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17594	     68952 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   16135	     74704 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   22126	     57027 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   20350	     64948 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17988	     72352 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   19570	     58354 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17804	     67470 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17740	     67937 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17630	     67717 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   17713	     67806 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   22773	     53782 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   20696	     58034 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   20532	     58671 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   18940	     73871 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   15658	     76435 ns/op
+BenchmarkWSCustom/BenchmarkWSCustom-8         	   16573	     65143 ns/op
+PASS
+ok  	gitlab.com/deslum/evrone-benchmark	57.081s

@@ -1,0 +1,36 @@
+goos: linux
+goarch: amd64
+pkg: gitlab.com/deslum/evrone-benchmark
+cpu: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+BenchmarkJoin/BenchmarkJoin-8         	   17282	     69321 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17342	     68846 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17342	     68979 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17301	     69239 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17320	     69699 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   16903	     70909 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17305	     69299 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17354	     69401 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17323	     69739 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17450	     69574 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17256	     69438 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17401	     68917 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17012	     70747 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17419	     69198 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17036	     69011 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17271	     69481 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17370	     69807 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17338	     69993 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17342	     69531 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   16406	     69483 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17426	     70928 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17239	     68907 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17062	     71804 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17140	     72128 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17102	     68768 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17326	     68995 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17346	     69941 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17397	     70993 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   16770	     69139 ns/op
+BenchmarkJoin/BenchmarkJoin-8         	   17274	     69001 ns/op
+PASS
+ok  	gitlab.com/deslum/evrone-benchmark	57.177s

@@ -1,0 +1,36 @@
+goos: linux
+goarch: amd64
+pkg: gitlab.com/deslum/evrone-benchmark
+cpu: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14118	     86194 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14278	     82784 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14557	     84005 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14306	     83580 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14544	     83706 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14422	     84612 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14220	     82921 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14685	     83092 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14512	     82375 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   15116	     79956 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14796	     82048 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   15066	     80575 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14874	     80859 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14757	     81215 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   15115	     80648 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14244	     81756 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14266	     82348 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14802	     82350 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14959	     81575 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14654	     81052 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   13093	     86436 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   15198	     79406 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   16488	     77363 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   15673	     76807 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   13476	     78674 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   14923	     86240 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   12908	     88054 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   12774	     94531 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   12799	     80050 ns/op
+BenchmarkWSDefault/BenchmarkWSDefault-8         	   15068	     81831 ns/op
+PASS
+ok  	gitlab.com/deslum/evrone-benchmark	61.082s
