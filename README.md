@@ -11,7 +11,6 @@ watch -n.1 "grep \"^[c]pu MHz\" /proc/cpuinfo"
 
 Links
 
-
  <ol>
 
 <li>https://www.youtube.com/watch?v=oE_vm7KeV_E</li>
